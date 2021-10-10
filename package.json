@@ -2,7 +2,7 @@
   "name": "sondrebrauti",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sondrebrauti.github.io/sondrebrauti",
+  "homepage": "https://sondrebrauti.github.io",
   "dependencies": {
     "cra-template": "1.1.2",
     "react": "^17.0.2",
